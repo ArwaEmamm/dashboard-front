@@ -1,0 +1,12 @@
+{
+  "login": "Login",
+  "welcome": "Welcome to the homepage",
+  "dashboard": "Dashboard",
+  "addCourse": "Add Course",
+  "courses": "Courses",
+  "noCourses": "No courses available",
+  "level": "Level",
+  "beginner": "Beginner",
+  "intermediate": "Intermediate",
+  "advanced": "Advanced"
+}

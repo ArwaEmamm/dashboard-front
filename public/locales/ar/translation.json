@@ -1,0 +1,18 @@
+{
+  "login": "تسجيل دخول",
+  "logout": "تسجيل الخروج",
+  "dashboard": "لوحة التحكم",
+  "addCourse": "إضافة الكورس",
+  "courses": "الكورسات",
+  "noCourses": "لا توجد كورسات حاليًا",
+  "level": "المستوى",
+  "beginner": "مبتدئ",
+  "intermediate": "متوسط",
+  "advanced": "متقدم",
+  "quizzes": "الكويزات",
+  "announcements": "الإعلانات",
+  "addQuiz": "➕ إضافة كويز",
+  "gradebook": "دفتر الدرجات",
+  "performance": "الأداء",
+  "schedule": "الجدول"
+}
